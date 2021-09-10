@@ -1,0 +1,43 @@
+body {
+      background-color: rgba(61, 107, 156, 1);
+      background-color: #3d6b9c;
+      font-family: "Georgia", serif, arial;
+      color:hsla(360, 74%, 0%, 0.68);
+      opacity:1.00;
+      padding: 20px;
+      margin-top: 15px;
+      margin-left: 25px;
+      margin-right: 25px;
+      margin-bottom: 15px;
+      font-size:18px;
+      line-height:1cm;
+      letter-spacing:1px;
+      }
+
+h1 {
+        background-color:rgba(61, 107, 156, 1);
+        color: black;
+        font-size: 200%;
+        }
+
+a:link{
+       color:#ffd000;
+}
+
+a:visited{
+  color: #c7a612;
+}
+
+a:hover{
+     text-decoration: underline;
+     color:#c7a612;
+}
+a:active{
+      text-decoration: none;
+}
+b {
+  font-size: 90%;
+}
+i{
+  font-size:90%;
+}
